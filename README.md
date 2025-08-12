@@ -25,10 +25,8 @@ Instead of static CSV files, this dashboard connects directly to **live JSON API
 PowerBI-Weather-Dashboard/
 │
 ├── Dashboard.pbix # Main Power BI dashboard file
-├── API_Steps.md # How to get API key and test endpoints
 ├── Images/
 │ ├── dashboard_preview.png
-│ └── dark_theme_example.png
 ├── weather_icons/ # Optional icons used in dashboard
 └── README.md # This file
 
